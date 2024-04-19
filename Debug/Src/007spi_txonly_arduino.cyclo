@@ -1,0 +1,5 @@
+../Src/007spi_txonly_arduino.c:20:6:delay	2
+../Src/007spi_txonly_arduino.c:24:6:SPI2_GPIOInits	1
+../Src/007spi_txonly_arduino.c:51:6:SPI2_Inits	1
+../Src/007spi_txonly_arduino.c:66:6:GPIO_ButtonInit	1
+../Src/007spi_txonly_arduino.c:80:5:main	3
